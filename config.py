@@ -24,8 +24,8 @@ FEATURES = {
 
 
 TOKENS = [
-    {"name": "samir", "token": "1717857293288LE5FyVDMJ8u0GIxbybkaR5rKJnUVWbfnKgxqKIGY3ntbEYaPvvio6fkLeJ09eJWm6856018611", "proxies": {"http": "http://user:pass@10.10.10.0:8080", "https": "https://user:pass@10.10.10.0:9090"}},
-    {"name": "dildora", "token": "1717857581837QYAUst7vgRQF8hwNf1gVPHtS3oblBrcdHBvhitIfEgotaOYtzdxpY4wEfkFU0K10284452911", "proxies": {"http": "http://user:pass@10.10.11.0:8080", "https": "https://user:pass@10.10.11.0:9090"}},
+    {"name": "samir", "token": "1717857293288LE5FyVDMJ8u0GIxbybkaR5rKJnUVWbfnKgxqKIGY3ntbEYaPvvio6fkLeJ09eJWm6856018611", },
+    {"name": "dildora", "token": "1717857581837QYAUst7vgRQF8hwNf1gVPHtS3oblBrcdHBvhitIfEgotaOYtzdxpY4wEfkFU0K10284452911", },
     {"name": "clousse", "token": "1717858156775nvrur4nmn95TnyC6sbS2YgJFqugtRLwDcWvLRsJIGNksb1sJNSKHKTRjfB4GUSgP6584103352", },
     {"name": "sanjrka", "token": "1717589217733rFf70NH2y21tbaVSjWmArn1X0UIkSWGiHejEpkaKdiQ9PMpoCB9J4DF1pZQBRffp6377724229", },
 ]
